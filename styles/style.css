@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.Photoagraph{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+}
+.Photo{
+    margin: 100px;
+}
